@@ -18,6 +18,7 @@ void setup() {
   }
 }
 
+
 void loop() {
   for(int i=0; i<numOfBalls; i++) {
     balls[i]->check();
